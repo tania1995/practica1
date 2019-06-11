@@ -1,0 +1,18 @@
+C:\Games\Practica 4\Ejercicio 6\Ejercicio 6\bin\Debug\Ejercicio 6.exe.config
+C:\Games\Practica 4\Ejercicio 6\Ejercicio 6\bin\Debug\Ejercicio 6.exe
+C:\Games\Practica 4\Ejercicio 6\Ejercicio 6\bin\Debug\Ejercicio 6.pdb
+C:\Games\Practica 4\Ejercicio 6\Ejercicio 6\obj\Debug\Ejercicio 6.csprojResolveAssemblyReference.cache
+C:\Games\Practica 4\Ejercicio 6\Ejercicio 6\obj\Debug\Ejercicio_6.Form1.resources
+C:\Games\Practica 4\Ejercicio 6\Ejercicio 6\obj\Debug\Ejercicio_6.Properties.Resources.resources
+C:\Games\Practica 4\Ejercicio 6\Ejercicio 6\obj\Debug\Ejercicio 6.csproj.GenerateResource.Cache
+C:\Games\Practica 4\Ejercicio 6\Ejercicio 6\obj\Debug\Ejercicio 6.exe
+C:\Games\Practica 4\Ejercicio 6\Ejercicio 6\obj\Debug\Ejercicio 6.pdb
+C:\Users\DELL\Ejercicio 6\Ejercicio 6\bin\Debug\Ejercicio 6.exe.config
+C:\Users\DELL\Ejercicio 6\Ejercicio 6\obj\Debug\Ejercicio 6.exe
+C:\Users\DELL\Ejercicio 6\Ejercicio 6\obj\Debug\Ejercicio 6.pdb
+C:\Users\DELL\Ejercicio 6\Ejercicio 6\bin\Debug\Ejercicio 6.exe
+C:\Users\DELL\Ejercicio 6\Ejercicio 6\bin\Debug\Ejercicio 6.pdb
+C:\Users\DELL\Ejercicio 6\Ejercicio 6\obj\Debug\Ejercicio 6.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Ejercicio 6\Ejercicio 6\obj\Debug\Ejercicio_6.Form1.resources
+C:\Users\DELL\Ejercicio 6\Ejercicio 6\obj\Debug\Ejercicio_6.Properties.Resources.resources
+C:\Users\DELL\Ejercicio 6\Ejercicio 6\obj\Debug\Ejercicio 6.csproj.GenerateResource.Cache
